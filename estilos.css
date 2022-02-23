@@ -416,3 +416,31 @@ body, button, input {
     padding: 0;
   }
 }
+
+
+/* Quienes somos*/
+
+.quienesSomos{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100%;
+}
+
+.card2{
+  font-weight: 500;
+line-height: 1.5em;
+padding-bottom: 20px;
+font-size: 1em;
+color: rgb(255, 255, 255);
+
+}
+
+.card3{
+  font-weight: 500;
+line-height: 1.5em;
+padding-bottom: 20px;
+font-size: 1em;
+color: rgb(255, 255, 255);
+
+}
